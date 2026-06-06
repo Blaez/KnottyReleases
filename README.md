@@ -9,6 +9,14 @@ Built by a chill dev for people who just want a nicer app experience.
 
 ---
 
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/424bba61-d10b-4096-8af3-f0c43006d527" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6a8b7a02-54b5-4f81-ae11-ef41dfcc2c9c" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a2c66863-00d0-4d20-ad1c-9e45703f27bf" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/25c01c10-9676-4237-8e6e-83759542f139" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/fd97ac68-12b1-4778-a717-4531e1f2cf7d" />
+
+
+
 ## What Knotty Can Do
 
 ### Search & Browsing
