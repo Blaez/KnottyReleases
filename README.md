@@ -42,7 +42,7 @@ Built for people who just want a chill app experience and notifications for pool
 ### Post Viewer
 
 - Open posts in a detail page
-- <img width="428" height="902" alt="image" src="https://github.com/user-attachments/assets/1bfffec4-0c77-4980-8ee4-5a7b3814d0b8" />
+- <img width="419" height="799" alt="image" src="https://github.com/user-attachments/assets/ad1700e0-d5ee-4242-ba1d-0e65f588bff4" />
 
 - Swipe left and right between posts including in fullscreen(Perfect for pools)
 - Fullscreen media viewer
