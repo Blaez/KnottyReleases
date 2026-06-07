@@ -5,7 +5,7 @@ Knotty is a unofficial e621 Android app for browsing e621.
 
 There were a handful of apps but what really inspired me was Yiffer by 
 
-Built by a chill dev for people who just want a nicer app experience.
+Built for people who just want a chill app experience and notifications for pools.
 
 ---
 
@@ -21,15 +21,26 @@ Built by a chill dev for people who just want a nicer app experience.
 
 ### Search & Browsing
 
-- Search e621 posts from inside the app(obviously)
 - Multi-tab search, so you can keep different searches open
+- <img width="415" height="103" alt="image" src="https://github.com/user-attachments/assets/d81d93ea-d67b-483e-aa84-44444aed0461" />
+
 - Infinite scrolling
 - Tag autocomplete while typing
+- <img width="430" height="127" alt="image" src="https://github.com/user-attachments/assets/405c7bda-446b-4a36-950f-a78f48d73558" />
+
 - A search builder for common filters like order:score
+- <img width="431" height="907" alt="image" src="https://github.com/user-attachments/assets/32cbf2fb-3a6a-4a8c-acbd-c0d7ef25f1ce" />
+
 - Search history
-- Undo and redo for recent searches
-- Flow grid and vertical feed layouts
+- <img width="428" height="902" alt="image" src="https://github.com/user-attachments/assets/c26561c0-58e0-4725-b060-a0ee88454971" />
+
+- Undo and redo for recent searches(See above photo in the search bar)
+- Flow grid, vertical, and Infinity feed layouts
+- <img width="428" height="690" alt="image" src="https://github.com/user-attachments/assets/03ea3473-d08e-4a07-b8c9-f858cc21465b" />
+
 - Viewed-post indicators so you know what you've opened
+- <img width="209" height="208" alt="image" src="https://github.com/user-attachments/assets/4533d8fa-8f55-4d9f-bf81-08a24688caca" />
+
 
 ### Post Viewer
 
