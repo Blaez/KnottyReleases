@@ -32,7 +32,7 @@ Built for people who just want a chill app experience and notifications for pool
 - <img width="428" height="902" alt="image" src="https://github.com/user-attachments/assets/c26561c0-58e0-4725-b060-a0ee88454971" />
 
 - Undo and redo for recent searches(See above photo in the search bar)
-- Flow grid, vertical, and Infinity feed layouts
+- Flow grid, vertical, and Infinity feed layouts. Infinity can even go up to 5x column mode
 - <img width="428" height="690" alt="image" src="https://github.com/user-attachments/assets/03ea3473-d08e-4a07-b8c9-f858cc21465b" />
 
 - Viewed-post indicators so you know what you've opened
