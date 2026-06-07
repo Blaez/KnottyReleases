@@ -3,7 +3,7 @@
 
 Knotty is a unofficial e621 Android app for browsing e621.
 
-There were a handful of apps but what really inspired me was Yiffer by 
+There were a handful of E621 apps but what really inspired me was Yiffer by EchoTiger, Thanks for making such a great app!
 
 Built for people who just want a chill app experience and notifications for pools.
 
@@ -122,7 +122,7 @@ You can:
 - Manage subscriptions
 
 ### Knotty Wrapped
-
+What inspired me with this was https://github.com/Mormonara/e621-Wrapped
 Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 10 pages of your favorites 400 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW
 <img width="397" height="438" alt="image" src="https://github.com/user-attachments/assets/97da16f2-9e7e-4671-bd79-1e4e0eed1b64" />
 
