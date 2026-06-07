@@ -9,11 +9,8 @@ Built for people who just want a chill app experience and notifications for pool
 
 ---
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/424bba61-d10b-4096-8af3-f0c43006d527" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6a8b7a02-54b5-4f81-ae11-ef41dfcc2c9c" />
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a2c66863-00d0-4d20-ad1c-9e45703f27bf" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/25c01c10-9676-4237-8e6e-83759542f139" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/fd97ac68-12b1-4778-a717-4531e1f2cf7d" />
+
 
 
 
@@ -45,21 +42,27 @@ Built for people who just want a chill app experience and notifications for pool
 ### Post Viewer
 
 - Open posts in a detail page
+- <img width="428" height="902" alt="image" src="https://github.com/user-attachments/assets/1bfffec4-0c77-4980-8ee4-5a7b3814d0b8" />
+
 - Swipe left and right between posts including in fullscreen(Perfect for pools)
 - Fullscreen media viewer
+- Dark, Light, and Midnight Themes with more to come
+- Set photos on E6 as a background for the app
 - Pinch zoom, panning, and double-tap zoom
 - Preloads nearby posts so swiping feels smoother
 - Shows post descriptions
 - Shows parent and child posts
 - Shows pool membership when a post belongs to pools
-- Smooth transitions from thumbnails to detail view
+- <img width="419" height="799" alt="image" src="https://github.com/user-attachments/assets/ad1700e0-d5ee-4242-ba1d-0e65f588bff4" />
+
+- Smooth transitions
 
 ### Media Support
 
-- Images
+- Images(WOW)
 - Autoplaying GIFs
 - Videos with WebM / MP4 playback
-- Save media to gallery
+- Save media to gallery, share the post link and use the built in android app sharer.
 - Download manager with active, completed, and failed downloads
 - Batch downloads
 - Full pool downloads
@@ -68,10 +71,15 @@ Built for people who just want a chill app experience and notifications for pool
 
 - Login with e621 API key
 - API key is stored securely with encryption
+- If your account has edit permissions, you can edit post details!
 - Favorite and unfavorite posts
 - Upvote and downvote posts
 - Upvote and downvote comments
 - Better syncing with votes made on the website
+- Flag Posts and comments
+- Two way blacklist syncing
+- <img width="413" height="101" alt="image" src="https://github.com/user-attachments/assets/1f9c0ce1-d788-49d9-b718-dd7bf0509c3f" />
+
 
 ### Tags & Filtering
 
@@ -88,11 +96,15 @@ Built for people who just want a chill app experience and notifications for pool
 
 ### Pools, Sets, and Explore
 
-- Browse pools and user sets
+- Browse pools, user sets, Users, and Artists
+- <img width="415" height="807" alt="image" src="https://github.com/user-attachments/assets/fd641125-dcfe-471a-b6e2-412b1837155a" />
+- Artist Page
+- <img width="416" height="891" alt="image" src="https://github.com/user-attachments/assets/a228ac32-7e98-4e41-9a15-7d5497453419" />
+
+
 - Open pools and sets as their own tabs
 - Pool cover thumbnails
-- Pool subscription support
-- Pool rows on post details can open the pool directly
+- Pool and tag subscription support
 
 ### Subscriptions
 
@@ -101,6 +113,8 @@ Knotty can watch tag searches and pools for new posts.
 You can:
 
 - Subscribe to tag searches
+- <img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/a6a41db5-28c3-4c52-b544-30ca88a98941" />
+
 - Subscribe to pool IDs / comics
 - Manually add subscriptions
 - On demand checks
@@ -109,7 +123,8 @@ You can:
 
 ### Knotty Wrapped
 
-Knotty has a Wrapped-style stats screen for your favorites and viewed posts.
+Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 10 pages of your favorites 400 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW
+<img width="397" height="438" alt="image" src="https://github.com/user-attachments/assets/97da16f2-9e7e-4671-bd79-1e4e0eed1b64" />
 
 It can show things like:
 
@@ -138,17 +153,17 @@ Good luck with that information...you'll probably need it
 
 Knotty can export and restore your app data as a JSON backup.
 
-Backups can include:
+Backups will include:
 
 - Settings
 - Tabs
-- History
+- Search History
 - Viewed posts
 - Subscriptions
-- Downloads
-- Login fields
+- Download history
+- Login
 
-> Heads up: backups may include your API key, so treat backup files like passwords.
+> Heads up: backups WILL include your API key, so treat backup files like passwords.
 
 ### App Lock
 
@@ -162,5 +177,5 @@ Nice for keeping people OUT.
 
 ### Updates
 
-- Built-in update checker
+- In app updater and checker
 - Release notes in-app
