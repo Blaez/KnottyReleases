@@ -123,7 +123,7 @@ You can:
 
 ### Knotty Wrapped
 What inspired me with this was https://github.com/Mormonara/e621-Wrapped
-Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 10 pages of your favorites 400 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW
+Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 50 pages of your favorites! Thats 2000 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW. Image is outdated for now
 <img width="397" height="438" alt="image" src="https://github.com/user-attachments/assets/97da16f2-9e7e-4671-bd79-1e4e0eed1b64" />
 
 It can show things like:
