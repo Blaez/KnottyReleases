@@ -16,6 +16,17 @@ Built for people who just want a chill app experience and notifications for pool
 
 ## What Knotty Can Do
 
+### Key Features
+
+- Tag and pool update notifications 
+- E621 wrapped:Like Spotify wrapped but for E622, it'll show you information about your top favorites and their tags
+- Fullscreen swiping, swipe between posts even in fullscreen perfect for pools!
+- Blacklist Syncing: sync your blacklist both ways to and from e621
+- Batch Downloads and Pool Downloads
+- App lock
+- Inapp updates
+
+
 ### Search & Browsing
 
 - Multi-tab search, so you can keep different searches open
