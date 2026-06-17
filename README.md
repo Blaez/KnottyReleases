@@ -9,7 +9,7 @@ Built for people who just want a chill app experience and notifications for pool
 
 ---
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a2c66863-00d0-4d20-ad1c-9e45703f27bf" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a820dcee-2127-428e-b9c0-b14993e0158b" />
 
 
 
@@ -25,6 +25,11 @@ Built for people who just want a chill app experience and notifications for pool
 - Batch Downloads and Pool Downloads
 - App lock
 - Inapp updates
+- Achievements
+- Recommended section(Uses Wrapped)
+- Status Checker(See if e621 is down for Maintenance or just down lol)
+- UPLOADS(IN BATCH)
+
 
 
 ### Search & Browsing
@@ -53,11 +58,12 @@ Built for people who just want a chill app experience and notifications for pool
 ### Post Viewer
 
 - Open posts in a detail page
-- <img width="419" height="799" alt="image" src="https://github.com/user-attachments/assets/ad1700e0-d5ee-4242-ba1d-0e65f588bff4" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/eba82a48-dd14-4b4e-abfb-efbb5b78231c" />
+
 
 - Swipe left and right between posts including in fullscreen(Perfect for pools)
 - Fullscreen media viewer
-- Dark, Light, and Midnight Themes with more to come
+- Dark, Light, Midnight, AMOLED, Cursed, Cursed Dark and Pride(Light theme)
 - Set photos on E6 as a background for the app
 - Pinch zoom, panning, and double-tap zoom
 - Preloads nearby posts so swiping feels smoother
@@ -110,7 +116,8 @@ Built for people who just want a chill app experience and notifications for pool
 - Browse pools, user sets, Users, and Artists
 - <img width="415" height="807" alt="image" src="https://github.com/user-attachments/assets/fd641125-dcfe-471a-b6e2-412b1837155a" />
 - Artist Page
-- <img width="416" height="891" alt="image" src="https://github.com/user-attachments/assets/a228ac32-7e98-4e41-9a15-7d5497453419" />
+- <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5fda6bb3-b2f8-4985-a49c-89367918ae8d" />
+
 
 
 - Open pools and sets as their own tabs
@@ -124,7 +131,8 @@ Knotty can watch tag searches and pools for new posts.
 You can:
 
 - Subscribe to tag searches
-- <img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/a6a41db5-28c3-4c52-b544-30ca88a98941" />
+<img width="422" height="365" alt="image" src="https://github.com/user-attachments/assets/3f176c84-0159-433e-9ab2-d149688cff81" />
+
 
 - Subscribe to pool IDs / comics
 - Manually add subscriptions
@@ -134,8 +142,9 @@ You can:
 
 ### Knotty Wrapped
 What inspired me with this was https://github.com/Mormonara/e621-Wrapped I am using their tag implications and interests.json!
-Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 50 pages of your favorites! Thats 2000 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW. Image is outdated for now
-<img width="397" height="438" alt="image" src="https://github.com/user-attachments/assets/97da16f2-9e7e-4671-bd79-1e4e0eed1b64" />
+Knotty has a Wrapped-style stats screen for your favorites and viewed posts. It will read the last 50 pages of your favorites! Thats 2000 pictures and lists those tags, the app keeps tracks of posts you've viewed while using it(Locally) and displays that information(There is more than what is shown in the photo however I cannot show that as it is NSFW. 
+<img width="409" height="432" alt="image" src="https://github.com/user-attachments/assets/dc9f2e5c-0a88-4a08-af92-6488c0140e05" />
+
 
 It can show things like:
 
