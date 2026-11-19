@@ -3,7 +3,7 @@
 
 Knotty is a unofficial e621 Android app for browsing e621.
 
-There were a handful of E621 apps but what really inspired me was Yiffer by EchoTiger, Thanks for making such a great app!
+There were a handful of E621 apps but what really inspired me was Yiffur by EchoTiger, Thanks for making such a great app!
 
 Built for people who just want a chill app experience and notifications for pools.
 
