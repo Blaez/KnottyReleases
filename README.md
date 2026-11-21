@@ -23,6 +23,7 @@ Built for people who just want a chill app experience and notifications for pool
 
 - Tag and pool update notifications 
 - E621 wrapped:Like Spotify wrapped but for E621, it'll show you information about your favorites and your topped viewed tags
+- Knotdle: A daily Wordle-like game that uses tags/artists/characters from E621!
 - Fullscreen swiping, swipe between posts even in fullscreen perfect for pools!
 - Blacklist Syncing: sync your blacklist both ways to and from e621
 - Batch Downloads and Pool Downloads
