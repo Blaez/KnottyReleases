@@ -7,6 +7,9 @@ There were a handful of E621 apps but what really inspired me was Yiffur by Echo
 
 Built for people who just want a chill app experience and notifications for pools.
 
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Blaez/KnottyReleases/total">
+<img alt="Discord" src="https://img.shields.io/discord/1512656019686166669?logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Finvite%2FBy8Jbem7ZF">
+
 ---
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a820dcee-2127-428e-b9c0-b14993e0158b" />
